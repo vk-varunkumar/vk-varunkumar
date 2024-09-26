@@ -43,8 +43,6 @@
   <a href="https://pm2.keymetrics.io/" target="_blank" title="PM2"> <img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="PM2" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vk-varunkumar&show_icons=true&locale=en" alt="vk-varunkumar" /></p>
-
 <!--
 **vk-varunkumar/vk-varunkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
