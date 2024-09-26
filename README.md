@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" title="HTML" target="_blank"> <img src="https://getlogovector.com/wp-content/uploads/2019/06/spryker-logo-vector.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://spryker.com/" title="HTML" target="_blank"> <img src="https://getlogovector.com/wp-content/uploads/2019/06/spryker-logo-vector.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" title="HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" title="CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
